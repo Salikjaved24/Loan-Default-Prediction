@@ -2,13 +2,6 @@
 
 This project provides a web-based tool for predicting the probability of loan default using three machine learning models: Logistic Regression, XGBoost, and a Feedforward Neural Network (FFNN). The goal is to assist in evaluating borrower risk based on financial and demographic information.
 
-<iframe
-    src="https://sidmaji-loan-default-predictor.hf.space"
-    frameborder="0"
-    width="600"
-    height="450"
-></iframe>
-
 <p align="center">
   <a href="https://sidmaji-loan-default-predictor.hf.space" target="_blank">
     Try the Loan Default Risk Predictor on HuggingFace Spaces 🤗
