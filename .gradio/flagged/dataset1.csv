@@ -1,4 +1,0 @@
-Age,Income,LoanAmount,CreditScore,MonthsEmployed,NumCreditLines,InterestRate,LoanTerm,DTIRatio,Education,EmploymentType,MaritalStatus,HasMortgage,HasDependents,LoanPurpose,HasCoSigner,AffRatio,TotalInterest,Debt,AvgBorrowed,output,timestamp
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"{""label"": null, ""confidences"": null}",2025-08-06 14:15:26.354367
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"{""label"": null, ""confidences"": null}",2025-08-06 14:15:28.326342
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"{""label"": ""Logistic Regression"", ""confidences"": [{""label"": ""Logistic Regression"", ""confidence"": 0.7715979727096028}, {""label"": ""FFNN"", ""confidence"": 0.7675252556800842}, {""label"": ""XGBoost"", ""confidence"": 0.46619120240211487}]}",2025-08-06 14:15:38.325144
